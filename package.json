@@ -1,7 +1,7 @@
 {
   "name": "navbar-dropdown-v1",
   "version": "0.1.0",
-  
+  "homepage": "https://bbelleeee.github.io/abc",
   "private": true,
   "dependencies": {
     "@supabase/supabase-js": "^1.35.3",
